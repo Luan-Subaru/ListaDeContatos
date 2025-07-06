@@ -75,4 +75,4 @@ Desenvolvido como projeto de prática em linguagem C por Luan Patrique e Yuri Fo
 
 Menu principal
 
-![Exemplo de visualização de lista](/)
+![Exemplo de visualização de lista](/viewLista.png)
